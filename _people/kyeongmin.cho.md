@@ -10,7 +10,9 @@ excerpt: "Kyeongmin Cho's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/kyeongmin.cho.jpg" alt="{{ person.name }}">
 
-I am a **Ph.D. candidate at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**. I
+**"As a soon-to-be Ph.D. graduate in *February 2025*, I am actively seeking career opportunities where I can apply my expertise in *storage systems, compilers, and verification*."**
+
+I am a Ph.D. student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr). I
 am very fortunate to be advised by [Prof. Jeehoon Kang]({{ site.baseurl }}{% include person_url.md person_id="jeehoon.kang" %}). Prior to KAIST, I received my B.S. in CSE and B.A. in Philosophy from Inha University.
 
 My primary research interests lie in the area of concurrency, persistency and programming languages. In particular, I am interested in developing and verifying design patterns for coordinating concurrent accesses, and using the design patterns, building practical concurrent systems.
