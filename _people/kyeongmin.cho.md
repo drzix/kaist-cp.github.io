@@ -10,7 +10,7 @@ excerpt: "Kyeongmin Cho's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/kyeongmin.cho.jpg" alt="{{ person.name }}">
 
-**"As a soon-to-be Ph.D. graduate in *February 2025*, I am actively seeking career opportunities where I can apply my expertise in *storage systems, compilers, and verification*."**
+**"I am expected to graduate with a Ph.D. in *February 2025* and plan to enter the (industry) job market."**
 
 I am a Ph.D. student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr). I
 am very fortunate to be advised by [Prof. Jeehoon Kang]({{ site.baseurl }}{% include person_url.md person_id="jeehoon.kang" %}). Prior to KAIST, I received my B.S. in CSE and B.A. in Philosophy from Inha University.
